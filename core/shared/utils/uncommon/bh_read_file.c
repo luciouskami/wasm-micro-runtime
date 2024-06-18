@@ -1,4 +1,4 @@
-#include "bh_read_file.h"
+﻿#include "bh_read_file.h"
 
 #include <sys/stat.h>
 #include <fcntl.h>

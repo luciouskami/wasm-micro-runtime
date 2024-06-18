@@ -1,4 +1,4 @@
-// Part of the Wasmtime Project, under the Apache License v2.0 with LLVM
+﻿// Part of the Wasmtime Project, under the Apache License v2.0 with LLVM
 // Exceptions. See
 // https://github.com/bytecodealliance/wasmtime/blob/main/LICENSE for license
 // information.

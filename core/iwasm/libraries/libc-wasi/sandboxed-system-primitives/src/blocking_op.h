@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (C) 2023 Midokura Japan KK.  All rights reserved.
  * SPDX-License-Identifier: Apache-2.0 WITH LLVM-exception
  */

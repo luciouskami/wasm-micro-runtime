@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (C) 2023 Amazon Inc.  All rights reserved.
  * SPDX-License-Identifier: Apache-2.0 WITH LLVM-exception
  */

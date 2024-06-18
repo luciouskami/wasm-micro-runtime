@@ -1,4 +1,4 @@
-// WebAssembly C API
+﻿// WebAssembly C API
 
 /**
  * @file   wasm_c_api.h

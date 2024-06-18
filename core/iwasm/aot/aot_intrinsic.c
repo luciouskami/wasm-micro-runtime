@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (C) 2021 XiaoMi Corporation. All rights reserved.
  * SPDX-License-Identifier: Apache-2.0 WITH LLVM-exception
  */

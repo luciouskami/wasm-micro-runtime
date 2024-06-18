@@ -49,6 +49,7 @@ def query_llvm_version(llvm_info):
 
 
 def build_llvm(llvm_dir, platform, backends, projects, use_clang=False, extra_flags=''):
+    LLVM_COMPILER = ['-G "Visual Studio 17 2022"']
     LLVM_COMPILE_OPTIONS = [
         '-DCMAKE_BUILD_TYPE:STRING="Release"',
         "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON",
@@ -138,6 +139,7 @@ def build_llvm(llvm_dir, platform, backends, projects, use_clang=False, extra_fl
         return None
 
     compile_options = " ".join(
+        LLVM_COMPILER+
         LLVM_COMPILE_OPTIONS
         + LLVM_LIBXML2_OPTION
         + LLVM_EXTRA_COMPILE_OPTIONS.get(

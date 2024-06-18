@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c)2023 YAMAMOTO Takashi.  All rights reserved.
  * SPDX-License-Identifier: Apache-2.0 WITH LLVM-exception
  */

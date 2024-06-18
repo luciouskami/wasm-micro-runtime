@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2013, Institute for Pervasive Computing, ETH Zurich
  * All rights reserved.
  *
